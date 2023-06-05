@@ -8,7 +8,7 @@
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/itz-star-boi/StarXRobot",
+   "repository": "https://github.com/StdParrot-OS/Music",
    "stack": "heroku-22",
    "addons": [
       {
